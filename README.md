@@ -28,7 +28,8 @@ Copy
 Edit
 python password_analyzer.py
 Screenshots 📸
-(Add images here if required)
+![Screenshot (49)](https://github.com/user-attachments/assets/93ff3086-602d-430d-8e62-a73d7e523572)
+
 
 How It Works? 🤔
 1️⃣ Enter your password in the input field.
